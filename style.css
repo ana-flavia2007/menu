@@ -6,7 +6,7 @@
 
 .container{
     max-width: 1080px;
-    margin: 0 autp;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -18,9 +18,9 @@ header{
 }
 
 .logo,.sociais{
-    width: 50%;
+    width: 100%;
 }
 
 .menu{
-    width: 50%;
+    width: 100%;
 }
